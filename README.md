@@ -47,7 +47,3 @@ The goal of this project is to build and evaluate regression models that predict
 1. Open the notebook in Google Colab or Jupyter Notebook.
 2. Upload or place `HousePricePrediction.xlsx` in the required location.
 3. Run all cells in order.
-
-## Author
-
-Himansi
